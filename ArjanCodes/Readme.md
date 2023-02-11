@@ -1,0 +1,1 @@
+[How to Use FastAPI: A Detailed Python Tutorial](https://youtu.be/SORiTsvnU28)
